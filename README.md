@@ -11,13 +11,6 @@ Repository ini berisi hasil Praktikum 4 Pemrograman Web. Praktikum mencakup lati
 - Membuat halaman Kontak dengan formulir nama, email, dan pesan.
 - Mendokumentasikan hasil praktikum menggunakan screenshot.
 
-## Teknologi
-
-- HTML5
-- CSS3
-- Visual Studio Code
-- Browser
-
 ## Langkah Praktikum dan Screenshot
 
 ### 1. Latihan Box Element
@@ -72,36 +65,9 @@ Halaman Kontak menyediakan formulir dengan kolom isian seperti nama, email, dan 
 
 ![Halaman Kontak dengan formulir](screenshot/Screenshot%202026-10-27%20010120.png)
 
-## Struktur Folder
-
-```text
-Pratikum-4-Pemograman Web/
-├── lab4_box.html
-├── lab4_Layout/
-│   ├── home.html
-│   ├── about.html
-│   ├── kontak.html
-│   └── style.css
-├── screenshot/
-│   ├── Logo1.png
-│   ├── Logo2.png
-│   └── [file screenshot praktikum]
-└── README.md
-```
-
-Catatan: file `artikel.html` belum terdapat di ZIP yang dikirim, walaupun tautan Artikel ada di navigasi dan screenshot halaman Artikel tersedia. Pastikan file tersebut ikut diunggah jika memang digunakan dalam praktikum. Nama folder `lab4_Layout` dan `screenshot` harus dipertahankan sesuai penamaan file yang ada.
-
 ## Kesimpulan
 
 Praktikum ini menunjukkan bagaimana HTML membentuk struktur halaman, sedangkan CSS mengatur tata letak dan tampilannya. Latihan box element memperkenalkan penggunaan `float` dan `clear`. Selanjutnya, layout sederhana dikembangkan menjadi halaman Home, Artikel, About, dan Kontak dengan navigasi serta formulir kontak.
-
-## Pengumpulan
-
-1. Pastikan file HTML, CSS, dan folder `screenshot` sudah ada di repository GitHub bernama `Lab4Web`.
-2. Buka README pada GitHub dan periksa apakah semua gambar tampil.
-3. Commit seluruh perubahan.
-4. Salin URL repository dan kumpulkan melalui e-learning eCampus.
-
 ---
 **Mata Kuliah:** Pemrograman Web  
 **Praktikum:** Lab4Web — Layout Sederhana
